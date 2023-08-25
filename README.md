@@ -47,14 +47,14 @@ Ovi API-ji omogućuju korisnicima (kroz API za događaje) i organizatorima (kroz
 
 Pokretanje aplikacije lokalno:
 
-- Instalirajte XAMPP softver s Chromea i otvorite ga, pokrenite SQL i Apache poslužitelj.
+- Instalirati XAMPP softver s Chromea i otvorite ga, pokrenite SQL i Apache poslužitelj.
 
-- Otvorite preglednik i pretražite localhost/phpmyadmin ili provjerite tu adresu putem Google Chromea.
+- Otvoriti preglednik i pretražiti localhost/phpmyadmin ili provjeriti tu adresu putem Google Chromea.
 
-- Uvezite datoteku SQL koju sam vam dao (manage_events.sql) - to će stvoriti bazu podataka.
+- Uvest datoteku SQL (manage_events.sql) - to će stvoriti bazu podataka.
 
-- Idite na lokaciju main.py datoteke i otvorite je putem VS Code-a ili nekog drugog razvojnog okruženja.
+- Ici na lokaciju main.py datoteke i otvoriti je putem VS Code-a 
 
-- Izvršite naredbu "pip install -r requirements.txt" radi instalacije potrebnih paketa.
+- Izvršiti naredbu "pip install -r requirements.txt" radi instalacije potrebnih paketa.
 
 - Pokrenite program i kliknite na pruženu poveznicu! 
