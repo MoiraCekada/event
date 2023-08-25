@@ -32,9 +32,13 @@ Prijavljeni korisnik može odabrati i izbrisati svoje postojeće događaje.
 Prijavljeni korisnik ima opciju odjave s računa nakon korištenja.
 
 *Dodatne funkcionalnosti*
+
 1.Prikaz događaja koje je bilo tko kreirao svima, čak i bez prijave
+
 2.Kreator ne može se pridružiti vlastitom događaju, ali drugi mogu - Višestruko dopušteno.
+
 3.Odvojen je prikaz svakog događaja koji je kreirao admin u njihovoj ruti "Vaši događaji".
+
 4.Lista osoba koje se pridružuju njihovim događajima sa njihovim detaljima, u ruti "Nadzorna ploča".
 
 Struktura aplikacije
