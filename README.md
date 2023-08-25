@@ -45,16 +45,3 @@ Struktura aplikacije
 
 Ovi API-ji omogućuju korisnicima (kroz API za događaje) i organizatorima (kroz API za organizatore) da izvršavaju specifične funkcionalnosti povezane s upravljanjem događajima i organizatorima. 
 
-Pokretanje aplikacije lokalno:
-
-- Instalirati XAMPP softver s Chromea i otvorite ga, pokrenite SQL i Apache poslužitelj.
-
-- Otvoriti preglednik i pretražiti localhost/phpmyadmin ili provjeriti tu adresu putem Google Chromea.
-
-- Uvest datoteku SQL (manage_events.sql) - to će stvoriti bazu podataka.
-
-- Ici na lokaciju main.py datoteke i otvoriti je putem VS Code-a 
-
-- Izvršiti naredbu "pip install -r requirements.txt" radi instalacije potrebnih paketa.
-
-- Pokrenite program i kliknite na pruženu poveznicu! 
